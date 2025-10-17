@@ -3,7 +3,7 @@ import streamlit as st
 st.title("Control A website!")
 
 # Create an entry box
-urk = st.text_input("Enter url: ")
+url = st.text_input("Enter url: ")
 
 
 
